@@ -1,2 +1,2 @@
 # Dina-git
-Awesome
+tribalchief
